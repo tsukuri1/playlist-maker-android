@@ -1,0 +1,4 @@
+<resources>
+    <style name="Theme.PlaylistMaker" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+    </style>
+</resources>
